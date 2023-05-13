@@ -1,5 +1,4 @@
 import { UserProvider } from './contexts/user.context';
-import { ProductsProvider } from './contexts/products.context';
 import { BrowserRouter } from "react-router-dom";
 import React from 'react'
 import ReactDOM from 'react-dom/client'
